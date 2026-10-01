@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [dropthehassle-publish](https://github.com/bosmdavid-gif/dropthehassle-skill) - Publish a finished static site to a free HTTPS link with DropTheHassle, verify it is live, and find a free domain without spending money.
 
 ## 📰 Articles & Blog Posts
 
